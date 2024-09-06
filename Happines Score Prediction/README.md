@@ -6,7 +6,7 @@ Happiness is very important part of an individual's life because it can improve 
 
 This Project aims to find the factors that contribute to happiness score and predict happiness score of individuals in different countries using Linear Regression. The project uses data from the World Happiness Report which includes various predictors such as GDP, social support, Family, perception of corruption, freedom to make life choices and Trust in govt corruption. The Project utilizes Happiness data set from 2018 to 2021 which includes the Happiness Scores of different countries across the globe.
 
-# DATA SET SOURCE
+## DATA SET SOURCE
 
 Happiness Score data set uses data from the Gallup World Poll which happens every year. The Gallup World Poll consists of more than 100 global questions as well as region-specific items.
 
@@ -15,7 +15,7 @@ https://worldhappiness.report/ed/2019/
 https://worldhappiness.report/ed/2020/
 https://worldhappiness.report/ed/2021/
 
-# DATA SET
+## DATA SET
 
 Happiness Score data set includes different factors that contribute to the happiness score of an individual.
 
@@ -25,7 +25,7 @@ Number of Predictors/Features : 6
 
 Response Variable : Happiness Score
 
-# Features are as follows:
+## Features are as follows:
 
 GDP per Capita
 Family
