@@ -1,6 +1,6 @@
-## HAPPINESS SCORE PREDICTION
+# HAPPINESS SCORE PREDICTION
 
-# INTRODUCTION
+## INTRODUCTION
 
 Happiness is very important part of an individual's life because it can improve ones lives in many ways and contribute to a more positive and thriving society. How happy are people today? What are the factors that contribute to the happiness of individuals in a country? How satisfied are people in different societies? And how do our living conditions affect all of this?Let's see whether we can find answer to some of the questions.
 
